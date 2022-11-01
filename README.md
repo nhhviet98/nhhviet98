@@ -5,13 +5,12 @@
 </p>
 
 
-## 👨 About me
+## 📌 About me
 
 - 👋 Hi, I’m @nhhviet98
 - 👀 I’m interested in the field of AI, Machine Learning, and Deep Learning.
 - 🌱 I’m currently working as an AI Engineer at FTECH CO., LTD, Da Nang, Viet Nam.
-- 📫 Reach me at nhhviet98@gmail.com
-- 🏠 Linkedin https://www.linkedin.com/in/nhhviet98/
+- Hash tags:`Artificial Intelligence`  `Computer Vision` `MLOps`
 
 ## 🔥 Skills
 
@@ -72,6 +71,12 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white)
+
+## ☎️ Contacts:
+📫 Email: nhhviet98@gmail.com
+🏠 Linkedin: https://www.linkedin.com/in/nhhviet98/
+👨‍💻 Facebook: https://www.facebook.com/HVVAHV/
+
 
 
 <!---
