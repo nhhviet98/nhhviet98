@@ -1,9 +1,9 @@
-<h3 align="center">🚀 Ngô Hữu Hoàng Việt 🚀</h1>
+### 🚀 Ngô Hữu Hoàng Việt 🚀
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/nhhviet98.svg?style=social&label=Follow&maxAge=2592000">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=nhhviet98.visitor-badge&left_color=red&right_color=green&left_text=ProfileVisitors">
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/nhhviet98.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nhhviet98?tab=followers)
+<img src="https://visitor-badge.glitch.me/badge?page_id=nhhviet98.visitor-badge&left_color=red&right_color=green&left_text=ProfileVisitors">
+
+
 
 
 ## 📌 About me
