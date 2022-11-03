@@ -9,7 +9,7 @@
 - 👋 Hi, I’m @nhhviet98
 - 👀 I’m interested in the field of AI, Machine Learning, and Deep Learning.
 - 🌱 I’m currently working as an AI Engineer at FTECH CO., LTD, Da Nang, Viet Nam.
-- Hash tags:`Artificial Intelligence`  `Computer Vision` `MLOps`
+- **Hash tags**:`Artificial Intelligence`  `Computer Vision` `MLOps`
 
 ## 🔥 Skills
 
