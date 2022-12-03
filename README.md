@@ -76,9 +76,6 @@
 
 📰 [Edge AI Implementation for Recognizing Sounds Created by Human Activities in Smart Offices Design Concepts](https://link.springer.com/chapter/10.1007/978-981-19-3394-3_70?fbclid=IwAR3jb1ELAhSA6vgeyNGIW7Vt9avFblkRoJkLftvWNhzCdyos66BACW-KYqo#citeas)
 
-👑 `Toeic: 790/990`
-
-
 ## ☎️ Contacts:
 📫 Email: nhhviet98@gmail.com
 
