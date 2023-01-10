@@ -71,11 +71,6 @@
 ![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
-
-## 📍 Achievements
-
-📰 [Edge AI Implementation for Recognizing Sounds Created by Human Activities in Smart Offices Design Concepts](https://link.springer.com/chapter/10.1007/978-981-19-3394-3_70?fbclid=IwAR3jb1ELAhSA6vgeyNGIW7Vt9avFblkRoJkLftvWNhzCdyos66BACW-KYqo#citeas)
-
 ## ☎️ Contacts:
 📫 Email: nhhviet98@gmail.com
 
