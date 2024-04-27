@@ -1,7 +1,7 @@
 ### 🚀 Ngô Hữu Hoàng Việt 🚀
 
 [![GitHub followers](http://img.shields.io/github/followers/nhhviet98.svg?style=social&label=Follow)](http://github.com/nhhviet98?tab=followers)
-<img src="https://visitor-badge.glitch.me/badge?page_id=nhhviet98.visitor-badge&left_color=red&right_color=green&left_text=ProfileVisitors">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=nhhviet98.visitor-badge&left_color=red&right_color=green">
 
 
 ## 📌 About me
