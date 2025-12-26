@@ -21,7 +21,7 @@
 
 - **Practical Problem Solving**: My experience has taught me that a model is only as good as the value it brings. I focus on bridging the gap between theoretical research and the engineering required to make AI reliable and efficient in a production environment.
 
-- **Supporting the Team**: I’ve been fortunate enough to lead technical initiatives and mentor others. For me, leadership isn't about the title, but about being the person who helps remove blockers and fosters a collaborative environment where we can all build better tech together.
+- **Supporting the Team**: I’ve been fortunate enough to lead technical initiatives and mentor others. To me, leadership means supporting the team and ensuring we build great things together.
 
 ## ☎️ Contacts:
 📫 Email: nhhviet98@gmail.com
